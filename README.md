@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi! I'm Daniel Romero - Software engineer specialized in Javascript 👨‍💻
 
-<!--
-**DaniRomDev/DaniRomDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Website](https://img.shields.io/website?label=daniromdev.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://daniromdev.com)
 
-Here are some ideas to get you started:
+- Mostly Javascript technologies with previous experience on PHP
+- I have my own [blog][website] where I share my experience as a remote worker on a constant journey through Europe.
+- You can find my work experience on [linkedin][linkedin]
+- You can contact me by e-mail ✉️ daniromdev@protonmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+![DaniRomDev GitHub stats](https://github-readme-stats.vercel.app/api?username=DaniRomDev&theme=ayu-mirage&show_icons=true)
+
+[website]: https://daniromdev.com
+[linkedin]: https://linkedin.com/in/romerodeveloper
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaniRomDev)](https://github.com/DaniRomDev/github-readme-stats)
