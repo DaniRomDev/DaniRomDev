@@ -1,9 +1,9 @@
-### I'm Daniel Romero - Software engineer specialized in Javascript 👨‍💻
+### I'm Daniel Romero - Software engineer specialized in PHP 👨‍💻
 
 [![Website](https://img.shields.io/website?label=daniromdev.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://daniromdev.com)
 
-- Mostly Javascript technologies with previous experience on PHP
-- I have my own [blog][website] where I share my experience as a remote worker on a constant journey through Europe.
+- Mostly PHP technologies with previous experience on Javascript/Typescript
+- I have my own [blog][website] where I share my experience as a remote worker on a constant journey.
 - You can find my work experience on [linkedin][linkedin]
 - You can contact me by e-mail ✉️ daniromdev@protonmail.com
 
